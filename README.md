@@ -1,4 +1,4 @@
-# OpenCV-Face-And-Eye-Detection-In-Flask-Web-Framework
+# OpenCV Face and Eye Detection in Flask Web Framework 📸👀🌐
 
 Welcome to the OpenCV-Face-And-Eye-Detection-In-Flask-Web-Framework project!
 
@@ -20,7 +20,7 @@ This code is a simple Flask web application that utilizes OpenCV to detect faces
 To use this code, you'll need to have Flask and OpenCV installed on your machine. Once you've installed these dependencies, you can run the application by executing the script and navigating to http://localhost:5000 in your web browser. The video stream should appear on the page, and faces and eyes should be detected in real-time as you move in front of the webcam.
 
 
-## Acknowledgments
+## Acknowledgments 🙏
 
 * Thanks to Krish Naik for the excellent tutorials on OpenCV and Flask that helped me develop this project.
 * Special thanks to the OpenCV and Flask communities for providing the necessary tools and documentation to make this project possible.
